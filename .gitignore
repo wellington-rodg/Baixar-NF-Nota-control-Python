@@ -1,0 +1,13 @@
+# Notas fiscais baixadas (dados da empresa e dos clientes)
+notas_pdf/
+*.pdf
+
+# Certificados digitais e chaves
+*.pfx
+*.p12
+*.pem
+*.key
+
+__pycache__/
+*.pyc
+.venv/
